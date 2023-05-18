@@ -1,0 +1,14 @@
+*, *::after, *::before{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    background-image: url("images/macauly-addesso-hnaysCkF93U-unsplash.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+   min-height:100vh;
+   width:100%;
+ 
+}
