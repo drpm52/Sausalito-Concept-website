@@ -34,3 +34,20 @@
    width:100%;
  
 }
+.header{
+    background-image:linear-gradient(to right, #8EC2EA 0%, 20.51546424627304%, #D0E7EF 41.03092849254608%, 70.51546424627304%, #9AB4AB 100%); 
+    width:100%;
+    min-height:10%;
+    color:white;
+    text-align: center;
+    padding:.5em;
+}
+
+.row{
+    display:flex;
+
+}
+.col{
+    display:flex;
+    flex-direction: column;
+}
