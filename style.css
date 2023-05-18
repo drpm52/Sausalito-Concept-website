@@ -1,3 +1,25 @@
+/* linear-gradient(to right, #8EC2EA 0%, 20.51546424627304%, #D0E7EF 41.03092849254608%, 70.51546424627304%, #9AB4AB 100%); */
+
+/* Gradient in RGBA */
+/* linear-gradient(to right, rgba(142, 194, 234, 1) 0%, 20.51546424627304%, rgba(208, 231, 239, 1) 41.03092849254608%, 70.51546424627304%, rgba(154, 180, 171, 1) 100%); */
+
+/* colors::
+/* Color Theme Swatches in Hex */
+/* .color-theme_macauly-addesso-hnaysCkF93U-unsplash-1-hex { color: #94CEF2; }
+.color-theme_macauly-addesso-hnaysCkF93U-unsplash-2-hex { color: #DCEEF2; }
+.color-theme_macauly-addesso-hnaysCkF93U-unsplash-3-hex { color: #A8BFBB; }
+.color-theme_macauly-addesso-hnaysCkF93U-unsplash-4-hex { color: #BDBF73; }
+.color-theme_macauly-addesso-hnaysCkF93U-unsplash-5-hex { color: #D98282; }
+
+/* Color Theme Swatches in RGBA */
+/* .color-theme_macauly-addesso-hnaysCkF93U-unsplash-1-rgba { color: rgba(148, 206, 242, 1); }
+.color-theme_macauly-addesso-hnaysCkF93U-unsplash-2-rgba { color: rgba(220, 238, 242, 1); }
+.color-theme_macauly-addesso-hnaysCkF93U-unsplash-3-rgba { color: rgba(168, 191, 187, 1); }
+.color-theme_macauly-addesso-hnaysCkF93U-unsplash-4-rgba { color: rgba(189, 191, 115, 1); }
+.color-theme_macauly-addesso-hnaysCkF93U-unsplash-5-rgba { color: rgba(217, 130, 130, 1); } */
+ 
+
+
 *, *::after, *::before{
     margin:0;
     padding:0;
